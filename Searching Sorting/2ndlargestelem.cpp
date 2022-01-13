@@ -1,3 +1,10 @@
+/*
+Input:
+5
+1 3 6 2 4
+output:
+4
+*/
 #include<bits/stdc++.h>
 using namespace std;
 int findSecondLargest(int *input, int n)
