@@ -1,3 +1,9 @@
+/*
+   abcde
+   baedc
+output:
+  true
+*/
 #include <iostream>
 #include <cstring>
 using namespace std;
